@@ -6,7 +6,7 @@
 
 #### Links and Resources
 
-- https://dreamy-lamarr-b495f3.netlify.com/
+- https://gallant-ritchie-c4e59b.netlify.com/
 - aws wont let me use thier service at the moment
 ### Modules
 
