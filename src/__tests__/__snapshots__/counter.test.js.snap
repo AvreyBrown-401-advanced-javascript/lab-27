@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing our Counter component render correctly 1`] = `
+<section
+  className="counter"
+  id="coolMiddle"
+>
+  <a
+    className="down"
+    href="#"
+    id="button1"
+    onClick={[Function]}
+  >
+    -
+  </a>
+  <span
+    className="count "
+  >
+    0
+  </span>
+  <a
+    className="up"
+    href="#"
+    id="button2"
+    onClick={[Function]}
+  >
+    +
+  </a>
+</section>
+`;
